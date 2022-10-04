@@ -10,7 +10,7 @@
   <summary><b>✨&nbsp;&nbsp;About&nbsp;Me</b></summary>
   <br/>
 
-I am a Junior Developer with 5+ years of experience in developing softwares, games, websites and more.
+I am a Junior Developer with 6+ years of experience in developing softwares, games, websites and more.
 
 </details> 
 
