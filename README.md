@@ -25,6 +25,7 @@ I am a Junior Developer with 6+ years of experience in developing softwares, gam
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-square&logo=JavaScript&logoColor=%23F7DF1E)
 ![Chart.js](https://img.shields.io/badge/Chart.js-F5788D.svg?style=flat-square&logo=Chart.JS&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/Node.JS-6DA55F?style=flat-square&logo=Node.JS&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Electron-2B2E3A?style=flat-square&logo=electron&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=flat-square&logo=NPM&logoColor=white)
 ![jQuery](https://img.shields.io/badge/JQuery-%230769AD.svg?style=flat-square&logo=JQuery&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat-square&logo=TypeScript&logoColor=white)
