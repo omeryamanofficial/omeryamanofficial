@@ -1,6 +1,6 @@
 <img align="right" alt="avatar" width="150" height="150" src="pp.jpg"> 
 
-## Junior Developer 👋 Ömer Yaman
+## Software Engineer 👋 Ömer Yaman
 
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=omeryamanofficial)](#)
 
