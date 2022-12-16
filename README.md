@@ -10,7 +10,7 @@
   <summary><b>✨&nbsp;&nbsp;About&nbsp;Me</b></summary>
   <br/>
 
-I am a Junior Developer with 6+ years of experience in developing softwares, games, websites and more.
+Ömer Yaman is a software engineer and a composer since 2017. He chose his path to make his dreams real. His only way to that was by training himself to be better and do better.
 
 </details> 
 
