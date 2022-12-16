@@ -1,6 +1,6 @@
 <img align="right" alt="avatar" width="150" height="150" src="pp.jpg"> 
 
-## Software Engineer 👋 Ömer Yaman
+## A Software Engineer And A Composer 👋 Ömer Yaman
 
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=omeryamanofficial)](#)
 
